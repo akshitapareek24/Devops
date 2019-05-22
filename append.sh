@@ -1,4 +1,4 @@
 #!/bin/sh
 
-APP=`cat dummy.txt | sshpass -p 'divya' ssh divya@192.168.0.21 ' cat >> /home/divya/example.txt'`
+APP=`cat dummy.txt | sshpass -p 'user' ssh user@IP ' cat >> /home/USER/example.txt'`
 

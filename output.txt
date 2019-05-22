@@ -1,0 +1,464 @@
+/home/mm50/akshita/dir1 
+ 12K	/home/mm50/akshita/dir1 total 8
+4 a
+4 b
+0 c
+0 d
+0 e
+/home/mm50/akshita/dir2 
+ 4.0K	/home/mm50/akshita/dir2 total 0
+/home/mm50/akshita/dir3 
+ 4.0K	/home/mm50/akshita/dir3 total 0
+/home/mm50/akshita/dir4 
+ 4.0K	/home/mm50/akshita/dir4 total 0
+/home/mm50/akshita/dir1 
+ 12K	/home/mm50/akshita/dir1 	 total 8
+4 a
+4 b
+0 c
+0 d
+0 e
+/home/mm50/akshita/dir2 
+ 4.0K	/home/mm50/akshita/dir2 	 total 0
+/home/mm50/akshita/dir3 
+ 4.0K	/home/mm50/akshita/dir3 	 total 0
+/home/mm50/akshita/dir4 
+ 4.0K	/home/mm50/akshita/dir4 	 total 0
+/home/mm50/akshita/dir1 
+ 12K	/home/mm50/akshita/dir1 	 total 8
+4 a
+4 b
+0 c
+0 d
+0 e
+/home/mm50/akshita/dir2 
+ 4.0K	/home/mm50/akshita/dir2 	 total 0
+/home/mm50/akshita/dir3 
+ 4.0K	/home/mm50/akshita/dir3 	 total 0
+/home/mm50/akshita/dir4 
+ 4.0K	/home/mm50/akshita/dir4 	 total 0
+/etc/opt
+/var/opt
+/opt \n 0	/etc/opt
+0	/var/opt
+114M	/opt \t /etc/opt:
+total 0
+
+/opt/:
+total 0
+0 apacheds-2.0.0.AM25
+0 mod_jk
+0 rh
+0 tomcat
+0 VBoxGuestAdditions-6.0.4
+
+/var/opt:
+total 0
+/etc/selinux/targeted/active/modules/100/tomcat
+/var/spool/mail/tomcat
+/opt/tomcat \n 20K	/etc/selinux/targeted/active/modules/100/tomcat
+0	/var/spool/mail/tomcat
+39M	/opt/tomcat \t 0 /var/spool/mail/tomcat
+
+/etc/selinux/targeted/active/modules/100/tomcat:
+total 20
+ 4 cil
+12 hll
+ 4 lang_ext
+
+/opt/tomcat/:
+total 4
+0 apache-tomcat-9.0.16
+0 demo
+4 demo.war
+0 instance1
+0 instance2
+0 instance3
+0 scripts
+/home/akshita/.local/share/nautilus/scripts
+/etc/vmware-tools/scripts
+/etc/httpd/httpd-2.4.38/docs/manual/style/scripts
+/root/.local/share/nautilus/scripts
+/usr/lib/systemd/scripts
+/usr/lib64/python2.7/site-packages/subscription_manager/scripts
+/usr/lib64/python2.7/site-packages/orca/scripts
+/usr/share/doc/nmap-ncat-6.40/examples/scripts
+/usr/share/doc/qt5/global/template/scripts
+/usr/share/doc/ppp-2.4.5/scripts
+/usr/share/m17n/scripts
+/usr/share/glusterfs/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64/arch/um/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64/tools/perf/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64/tools/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/arch/um/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/tools/perf/scripts
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/tools/scripts
+/opt/tomcat/scripts
+/opt/mod_jk/tomcat-connectors-1.2.46-src/native/scripts \n 0	/home/akshita/.local/share/nautilus/scripts
+16K	/etc/vmware-tools/scripts
+116K	/etc/httpd/httpd-2.4.38/docs/manual/style/scripts
+0	/root/.local/share/nautilus/scripts
+4.0K	/usr/lib/systemd/scripts
+124K	/usr/lib64/python2.7/site-packages/subscription_manager/scripts
+2.8M	/usr/lib64/python2.7/site-packages/orca/scripts
+28K	/usr/share/doc/nmap-ncat-6.40/examples/scripts
+16K	/usr/share/doc/qt5/global/template/scripts
+116K	/usr/share/doc/ppp-2.4.5/scripts
+4.0K	/usr/share/m17n/scripts
+8.0K	/usr/share/glusterfs/scripts
+4.0K	/usr/src/kernels/3.10.0-957.el7.x86_64/arch/um/scripts
+3.4M	/usr/src/kernels/3.10.0-957.el7.x86_64/scripts
+4.0K	/usr/src/kernels/3.10.0-957.el7.x86_64/tools/perf/scripts
+8.0K	/usr/src/kernels/3.10.0-957.el7.x86_64/tools/scripts
+0	/usr/src/kernels/3.10.0-957.el7.x86_64.debug/arch/um/scripts
+44K	/usr/src/kernels/3.10.0-957.el7.x86_64.debug/scripts
+0	/usr/src/kernels/3.10.0-957.el7.x86_64.debug/tools/perf/scripts
+0	/usr/src/kernels/3.10.0-957.el7.x86_64.debug/tools/scripts
+24K	/opt/tomcat/scripts
+460K	/opt/mod_jk/tomcat-connectors-1.2.46-src/native/scripts \t /etc/httpd/httpd-2.4.38/docs/manual/style/scripts:
+total 116
+ 4 MINIFY
+72 prettify.js
+40 prettify.min.js
+
+/etc/vmware-tools/scripts:
+total 0
+0 vmware
+
+/home/akshita/.local/share/nautilus/scripts:
+total 0
+
+/opt/mod_jk/tomcat-connectors-1.2.46-src/native/scripts/:
+total 0
+0 build
+
+/opt/tomcat/scripts:
+total 24
+4 instance1-startup.sh
+4 instance1-stop.sh
+4 instance2-startup.sh
+4 instance2-stop.sh
+4 instance3-startup.sh
+4 instance3-stop.sh
+
+/root/.local/share/nautilus/scripts:
+total 0
+
+/usr/lib64/python2.7/site-packages/orca/scripts:
+total 532
+  4 apps
+252 default.py
+128 default.pyc
+128 default.pyo
+  0 __init__.py
+  4 __init__.pyc
+  4 __init__.pyo
+  4 self_voicing.py
+  4 self_voicing.pyc
+  4 self_voicing.pyo
+  0 toolkits
+
+/usr/lib64/python2.7/site-packages/subscription_manager/scripts:
+total 180
+ 0 __init__.py
+ 4 __init__.pyc
+ 4 __init__.pyo
+ 4 rct.py
+ 4 rct.pyc
+ 4 rct.pyo
+ 4 rhn_migrate_classic_to_rhsm.py
+ 4 rhn_migrate_classic_to_rhsm.pyc
+ 4 rhn_migrate_classic_to_rhsm.pyo
+ 8 rhsmcertd_worker.py
+ 8 rhsmcertd_worker.pyc
+ 8 rhsmcertd_worker.pyo
+ 4 rhsm_debug.py
+ 4 rhsm_debug.pyc
+ 4 rhsm_debug.pyo
+16 rhsm_d.py
+12 rhsm_d.pyc
+12 rhsm_d.pyo
+ 4 rhsm_facts_service.py
+ 4 rhsm_facts_service.pyc
+ 4 rhsm_facts_service.pyo
+ 4 rhsm_service.py
+ 4 rhsm_service.pyc
+ 4 rhsm_service.pyo
+ 4 sat5to6.py
+ 4 sat5to6.pyc
+ 4 sat5to6.pyo
+ 8 subscription_manager_gui.py
+ 8 subscription_manager_gui.pyc
+ 8 subscription_manager_gui.pyo
+ 4 subscription_manager.py
+ 4 subscription_manager.pyc
+ 4 subscription_manager.pyo
+
+/usr/lib/systemd/scripts:
+total 4
+4 nfs-utils_env.sh
+
+/usr/share/doc/nmap-ncat-6.40/examples/scripts:
+total 8
+4 http-proxy
+0 http-scan
+4 README
+
+/usr/share/doc/ppp-2.4.5/scripts:
+total 92
+8 autopppd
+4 callback
+4 chat-callback
+0 chatchat
+4 ip-down.local.add
+4 ip-up.local.add
+4 options-rsh-loc
+4 options-rsh-rem
+4 options-ssh-loc
+4 options-ssh-rem
+4 plog
+4 poff
+4 pon
+4 pon.1
+4 ppp-off
+4 ppp-on
+4 ppp-on-dialer
+4 ppp-on-rsh
+4 ppp-on-ssh
+8 README
+4 redialer
+4 secure-card
+
+/usr/share/doc/qt5/global/template/scripts:
+total 16
+ 4 extras.js
+12 main.js
+
+/usr/share/glusterfs/scripts:
+total 8
+4 post-upgrade-script-for-quota.sh
+4 pre-upgrade-script-for-quota.sh
+
+/usr/share/m17n/scripts:
+total 4
+4 tbl2mim.awk
+
+/usr/src/kernels/3.10.0-957.el7.x86_64/arch/um/scripts:
+total 4
+4 Makefile.rules
+
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/arch/um/scripts:
+total 4
+4 Makefile.rules
+
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/scripts:
+total 944
+ 24 asn1_compiler
+ 36 asn1_compiler.c
+  0 basic
+  4 bloat-o-meter
+  8 bootgraph.pl
+  4 checkincludes.pl
+  4 checkkconfigsymbols.sh
+104 checkpatch.pl
+  8 checkstack.pl
+  8 checksyscalls.sh
+  4 checkversion.pl
+  4 cleanfile
+  8 cleanpatch
+  4 coccicheck
+  0 coccinelle
+  4 config
+ 12 conmakehash
+  8 conmakehash.c
+  4 decodecode
+  4 depmod.sh
+  4 diffconfig
+ 16 docproc.c
+  4 dtc
+  8 export_report.pl
+  4 extract-ikconfig
+  4 extract-vmlinux
+  4 gcc-goto.sh
+  4 gcc-version.sh
+  4 gcc-x86_32-has-stack-protector.sh
+  4 gcc-x86_64-has-stack-protector.sh
+  8 gen_initramfs_list.sh
+  4 genksyms
+ 56 get_maintainer.pl
+  4 gfp-translate
+  4 headerdep.pl
+  4 headers_check.pl
+  4 headers_install.sh
+  4 headers.sh
+ 16 kallsyms
+ 20 kallsyms.c
+ 12 Kbuild.include
+  4 kconfig
+ 72 kernel-doc
+  0 ksymoops
+  4 Lindent
+  8 link-vmlinux.sh
+  4 Makefile
+  4 Makefile.asm-generic
+ 16 Makefile.build
+  4 Makefile.clean
+  4 Makefile.fwinst
+  8 Makefile.headersinst
+  4 Makefile.help
+  8 Makefile.host
+ 16 Makefile.lib
+  4 Makefile.modbuiltin
+  4 Makefile.modinst
+  8 Makefile.modpost
+  4 Makefile.modsign
+  4 makelst
+ 12 markup_oops.pl
+  4 mkcompile_h
+  4 mkmakefile
+  4 mksysmap
+  4 mkuboot.sh
+  4 mkversion
+  4 mod
+  4 module-common.lds
+  0 modules.order
+ 16 namespace.pl
+  0 package
+ 12 patch-kernel
+ 16 pnmtologo
+ 12 pnmtologo.c
+  4 profile2linkerlist.pl
+ 20 recordmcount
+ 16 recordmcount.c
+ 20 recordmcount.h
+ 20 recordmcount.pl
+  4 rt-tester
+  0 selinux
+  4 setlocalversion
+  4 show_delta
+ 16 sign-file
+ 16 sortextable
+  8 sortextable.c
+  8 sortextable.h
+ 12 tags.sh
+  0 tracing
+ 28 unifdef
+ 36 unifdef.c
+  4 ver_linux
+  4 xz_wrap.sh
+
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/tools/perf/scripts:
+total 0
+0 perl
+
+/usr/src/kernels/3.10.0-957.el7.x86_64.debug/tools/scripts:
+total 8
+4 Makefile.arch
+4 Makefile.include
+
+/usr/src/kernels/3.10.0-957.el7.x86_64/scripts:
+total 944
+ 24 asn1_compiler
+ 36 asn1_compiler.c
+  0 basic
+  4 bloat-o-meter
+  8 bootgraph.pl
+  4 checkincludes.pl
+  4 checkkconfigsymbols.sh
+104 checkpatch.pl
+  8 checkstack.pl
+  8 checksyscalls.sh
+  4 checkversion.pl
+  4 cleanfile
+  8 cleanpatch
+  4 coccicheck
+  0 coccinelle
+  4 config
+ 12 conmakehash
+  8 conmakehash.c
+  4 decodecode
+  4 depmod.sh
+  4 diffconfig
+ 16 docproc.c
+  4 dtc
+  8 export_report.pl
+  4 extract-ikconfig
+  4 extract-vmlinux
+  4 gcc-goto.sh
+  4 gcc-version.sh
+  4 gcc-x86_32-has-stack-protector.sh
+  4 gcc-x86_64-has-stack-protector.sh
+  8 gen_initramfs_list.sh
+  4 genksyms
+ 56 get_maintainer.pl
+  4 gfp-translate
+  4 headerdep.pl
+  4 headers_check.pl
+  4 headers_install.sh
+  4 headers.sh
+ 16 kallsyms
+ 20 kallsyms.c
+ 12 Kbuild.include
+  4 kconfig
+ 72 kernel-doc
+  0 ksymoops
+  4 Lindent
+  8 link-vmlinux.sh
+  4 Makefile
+  4 Makefile.asm-generic
+ 16 Makefile.build
+  4 Makefile.clean
+  4 Makefile.fwinst
+  8 Makefile.headersinst
+  4 Makefile.help
+  8 Makefile.host
+ 16 Makefile.lib
+  4 Makefile.modbuiltin
+  4 Makefile.modinst
+  8 Makefile.modpost
+  4 Makefile.modsign
+  4 makelst
+ 12 markup_oops.pl
+  4 mkcompile_h
+  4 mkmakefile
+  4 mksysmap
+  4 mkuboot.sh
+  4 mkversion
+  4 mod
+  4 module-common.lds
+  0 modules.order
+ 16 namespace.pl
+  0 package
+ 12 patch-kernel
+ 16 pnmtologo
+ 12 pnmtologo.c
+  4 profile2linkerlist.pl
+ 20 recordmcount
+ 16 recordmcount.c
+ 20 recordmcount.h
+ 20 recordmcount.pl
+  4 rt-tester
+  0 selinux
+  4 setlocalversion
+  4 show_delta
+ 16 sign-file
+ 16 sortextable
+  8 sortextable.c
+  8 sortextable.h
+ 12 tags.sh
+  0 tracing
+ 28 unifdef
+ 36 unifdef.c
+  4 ver_linux
+  4 xz_wrap.sh
+
+/usr/src/kernels/3.10.0-957.el7.x86_64/tools/perf/scripts:
+total 0
+0 perl
+
+/usr/src/kernels/3.10.0-957.el7.x86_64/tools/scripts:
+total 8
+4 Makefile.arch
+4 Makefile.include

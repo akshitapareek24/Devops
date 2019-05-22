@@ -4,7 +4,7 @@ a=0
 
 while true
 do
-  p=`sshpass -p 'divya' ssh divya@192.168.0.21 "cd Tomcat$a && pwd"`
+  p=`sshpass -p 'PASSWORD' ssh USER@192.168.0.21 "cd Tomcat$a && pwd"`
   exit=$?
   echo $p 
   a=`expr $a + 1`
