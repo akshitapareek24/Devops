@@ -1,3 +1,0 @@
-date
-whoami
-df -m --total | awk '/total/ {print $2}'
