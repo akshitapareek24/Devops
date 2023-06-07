@@ -8,6 +8,16 @@ variable "aws_secret_key" {
   type        = string
 }
 
+variable "credentials" {
+  description = "The credentials for connecting to AWS."
+  type = object({
+    access_key = string
+    secret_key = string
+  })
+  sensitive = true
+}
+
+
 variable "region" {
   description = "The aws region. https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html"
   type        = string
