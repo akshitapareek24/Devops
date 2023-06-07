@@ -1,9 +1,8 @@
 terraform {
   backend "s3" {
-    bucket         = "<REPLACE_WITH_YOUR_REMOTESTATE_BUCKETNAME>"
-    dynamodb_table = "<REPLACE_WITH_YOUR_DYNAMODB_TABLENAME>"
+    bucket         = "akshita-humanitec-demo"
     key            = "terraform-aws-eks-workshop.tfstate"
-    region         = "us-west-1"
+    region         = "us-east-1"
     encrypt        = true
   }
 }
